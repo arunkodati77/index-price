@@ -1,0 +1,22 @@
+div#index_table {
+    text-align: center;
+}
+
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+a#downloadData {
+    background-color: #cfe4f2;
+}
+
+div#header-argus {
+    display: inline-flex;
+    margin-top:10px;
+}
+
+p#header-text {
+    padding: 20px;
+    font-size: 24px;
+}
