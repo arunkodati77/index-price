@@ -1,5 +1,5 @@
 
-# Argus Media Interview Project - Index Price Calculation
+# Index Price Calculation - Demo
 
 ## Overview
 
